@@ -1,0 +1,4 @@
+### The Basic custom wolf
+- /summon wolf ~ ~ ~ {Owner:tiwb, CollarColor:5, CustomName:"2018", Age:0}
+> With custom owner, name and color,spawn in adult age
+###
