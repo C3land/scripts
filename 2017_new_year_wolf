@@ -2,4 +2,4 @@
 - /summon wolf ~ ~ ~ {Owner:tiwb, CollarColor:5, CustomName:"2018", Age:0}
 > With custom owner, name and color,spawn in adult age
 ### Wolf with additional health and speed
-- /summon wolf ~ ~ ~ {CustomName:"Meow",Health:80f,Age:0,CollarColor:5b,Attributes:[{Name:generic.maxHealth,Base:80},{Name:generic.attackDamage,Base:9},{Name:generic.armor,Base:16},{Name:generic.armorToughness,Base:100}]}
+- /summon wolf ~ ~ ~ {CustomName:"甜食之犬",Health:80f,Age:0,CollarColor:5b,Attributes:[{Name:generic.maxHealth,Base:80},{Name:generic.attackDamage,Base:9},{Name:generic.armor,Base:16},{Name:generic.armorToughness,Base:100}]}
